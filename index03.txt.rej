@@ -1,0 +1,8 @@
+diff a/index03.txt b/index03.txt	(rejected hunks)
+@@ -1 +0,3 @@
+-这是在dev分子之下
+\ No newline at end of file
++这是在dev分子之下
++
++这是我第二天添加的内容
+\ No newline at end of file
